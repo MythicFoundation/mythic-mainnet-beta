@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MythicFoundation/mythic-mainnet-beta/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-39FF14?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/MythicFoundation/mythic-mainnet-beta/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-BUSL_1.1-blue?style=flat-square" alt="License" /></a>
   <a href="https://github.com/MythicFoundation/mythic-mainnet-beta/actions"><img src="https://img.shields.io/badge/Build-Passing-39FF14?style=flat-square" alt="Build" /></a>
   <a href="https://solana.com"><img src="https://img.shields.io/badge/Solana-v2.0-7B2FFF?style=flat-square" alt="Solana" /></a>
   <a href="https://mythic.sh"><img src="https://img.shields.io/badge/Network-Live-39FF14?style=flat-square" alt="Network" /></a>
