@@ -183,10 +183,5 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a P
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-<p align="center">
-  Built by <a href="https://mythiclabs.io">MythicLabs</a>
-</p>
+This project is licensed under the [Business Source License 1.1](./LICENSE). The Licensed Work will convert to MIT License on February 25, 2028.
